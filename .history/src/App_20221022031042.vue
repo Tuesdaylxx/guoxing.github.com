@@ -1,11 +1,8 @@
 <template>
   <div id="app">
-    <!-- 头部 -->
     <top-header />
     <router-view />
-    <!-- 固定导航 -->
     <tool-bar />
-    <!-- 底部 -->
     <serve-footer />
   </div>
 </template>
